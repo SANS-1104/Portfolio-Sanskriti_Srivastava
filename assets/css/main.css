@@ -872,6 +872,7 @@ section,
   transition: all ease-in-out 0.3s;
   background: rgba(0, 0, 0, 0.6);
   padding: 15px;
+  border: 4px solid black;
 }
 
 .portfolio .portfolio-content .portfolio-info h4 {
@@ -912,7 +913,7 @@ section,
 }
 
 .portfolio .portfolio-content .portfolio-info .details-link {
-  left: 50%;
+  left: 45%;
   font-size: 34px;
   line-height: 0;
 }
