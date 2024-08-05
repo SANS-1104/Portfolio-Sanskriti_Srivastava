@@ -1418,3 +1418,24 @@ section,
   background-color: #9D65C9;
   color: white;
 }
+
+
+.resume .viewResume p i{
+  animation: move 2s ease-in-out 0s infinite normal;
+}
+
+@keyframes move {
+  0%{
+    transform: translateX(0);
+  }
+  50%{
+    transform: translateX(1rem);
+  }
+  100%{
+    transform: translateX(0);
+  }
+}
+
+.resume .viewResume p a:hover{
+  text-decoration: underline;
+}
