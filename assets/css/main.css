@@ -1403,3 +1403,18 @@ section,
     border-right: 1.5px solid black;
   }
 }
+
+
+.openPDFbtn{
+  border: 3px solid #9D65C9;
+  border-radius: 0.5rem;
+  padding: 0.25rem 0.5rem;
+  font-weight: bold;
+  font-size: 1.1rem;
+  background-color: white;
+}
+
+.openPDFbtn:hover{
+  background-color: #9D65C9;
+  color: white;
+}

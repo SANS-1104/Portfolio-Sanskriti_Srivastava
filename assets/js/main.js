@@ -227,3 +227,10 @@
   document.addEventListener('scroll', navmenuScrollspy);
 
 })();
+
+
+// openPDF
+
+function openPDF(){
+  window.open('assets/PDFs/REPORT.pdf', '_blank')
+}
