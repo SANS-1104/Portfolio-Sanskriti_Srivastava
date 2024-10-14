@@ -231,6 +231,14 @@
 
 // openPDF
 
-function openPDF(){
-  window.open('assets/PDFs/REPORT.pdf', '_blank')
+function carsalesPDF(){
+  window.open('assets/PDFs/carSalesREPORT.pdf', '_blank')
+}
+
+function zomatosalesPDF(){
+  window.open('assets/PDFs/zomatoSalesREPORT.pdf', '_blank')
+}
+
+function airQualityPDF(){
+  window.open('assets/PDFs/airQualityReport.pdf', '_blank')
 }
