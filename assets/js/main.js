@@ -232,13 +232,13 @@
 // openPDF
 
 function carsalesPDF(){
-  window.open('assets/PDFs/carSalesREPORT.pdf', '_blank')
+  window.open('../assets/PDFs/carSalesREPORT.pdf', '_blank')
 }
 
 function zomatosalesPDF(){
-  window.open('assets/PDFs/zomatoSalesREPORT.pdf', '_blank')
+  window.open('../assets/PDFs/zomatoSalesREPORT.pdf', '_blank')
 }
 
 function airQualityPDF(){
-  window.open('assets/PDFs/airQualityReport.pdf', '_blank')
+  window.open('../assets/PDFs/airQualityReport.pdf', '_blank')
 }
